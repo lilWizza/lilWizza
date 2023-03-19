@@ -2,13 +2,13 @@
 
 <img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" wifdth="300px" height="200px">
  
- *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Django
+ *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 LIFE.
 
  *  🧠  𝙸𝚗𝚝𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙳𝚎𝚟Sec𝙾𝚙𝚜
  
- *  ⚡  𝙶𝙽𝚄/𝙻𝚒𝚗𝚞𝚡 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
+ *  ⚡  𝙶𝙽𝚄/ 𝙻𝚒𝚗𝚞𝚡 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
 
- *  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001" width="30px">&nbsp; 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 ParrotOS
+ *  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001" width="30px">&nbsp; 𝚋y the way, 𝙸 𝚞𝚜𝚎 ParrotOS
 
 
 <a href="https://twitter.com/AabhashBasnet" target="_blank" rel="noreferrer"><img
