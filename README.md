@@ -52,3 +52,7 @@ src="https://img.shields.io/github/followers/lilWizza?logo=github&style=for-the-
 
 ### 𝚂𝚘𝚌𝚒𝚊𝚕𝚜
 <p align="left"> <a href="https://www.github.com/lilWizza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp; &nbsp;<a href="https://www.twitter.com/0xlilWizza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### My DevCard
+<a href="https://app.daily.dev/lilWizza"><img src="https://api.daily.dev/devcards/e1d2cce147264b5391c8e07de8f00b08.png?r=5xt" width="400" alt="lilWizza's Dev Card"/></a>
