@@ -1,17 +1,17 @@
-<h1 align="center"> 𝙷𝚒 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 Aavash  </h1>
+<h1 align="center"> 𝙷𝚒! 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 Aavash  </h1>
 
 <img align="right" alt="gif" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" wifdth="300px" height="200px">
  
- *  🌱 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 LIFE.
+ *  𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 LIFE.
 
- *  🧠  𝙸𝚗𝚝𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙳𝚎𝚟Sec𝙾𝚙𝚜
+ *  𝙸𝚗𝚝𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝙳𝚎𝚟Sec𝙾𝚙𝚜
  
- *  ⚡  𝙶𝙽𝚄/ 𝙻𝚒𝚗𝚞𝚡 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
+ *  𝙶𝙽𝚄/ 𝙻𝚒𝚗𝚞𝚡 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
 
  *  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001" width="30px">&nbsp; 𝚋y the way, 𝙸 𝚞𝚜𝚎 ParrotOS
 
 
-<a href="https://twitter.com/AabhashBasnet" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/0xlilWizza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/0xlilWizza?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://twitter.com/0xlilWizza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lilWizza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
